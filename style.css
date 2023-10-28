@@ -261,7 +261,6 @@ html, body{
 #images_overview #oimg_1{
     width: 45%;
     height: 100%;
-    /* background-color: yellow; */
     background-image: url(https://images.unsplash.com/photo-1593504049359-74330189a345?auto=format&fit=crop&q=80&w=1854&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
     background-size: cover;
     background-position: center;
@@ -378,7 +377,6 @@ html, body{
 }
 
 #discription{
-    /* width: 350px; */
     height: 300px;
     background-color: #ff770f17;
     display: grid;
@@ -416,7 +414,6 @@ html, body{
 }
 
 #food_img{
-    /* width: 350px; */
     height: 300px;
 }
 
@@ -634,7 +631,7 @@ html, body{
 }
 
 .P1{
-    background-image: url(profile1.jpg);
+    background-image: url(sourabh.png);
     background-size: cover;
     background-position: center;
 }
@@ -685,3 +682,4 @@ html, body{
 #f_text h5{
     font-weight: bolder;
 }
+
